@@ -44,6 +44,7 @@ h2{
 article p{
     color: rgb(162, 13, 68);
     padding: 9px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 footer p{
@@ -52,10 +53,11 @@ footer p{
 
 #keszitette{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 .nevesdatum{
-
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a{
@@ -63,4 +65,5 @@ a{
     color: rgb(130, 11, 54);
     margin-left: 1000px;
     font-size: 30px;
+    font-family: fantasy;
 }
