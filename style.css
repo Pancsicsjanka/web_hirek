@@ -1,0 +1,32 @@
+nav ul li{
+    display: inline;
+    color: rgb(241, 189, 207);
+    font-size: 30px;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(162, 13, 68);
+    border-radius: 10px;
+    height: 200px;
+}
+
+#full{
+    max-width: 1500px;
+    margin: auto;
+}
+
+h1{
+    color: rgb(241, 189, 207);
+    font-size: 70px;
+    
+}
+
+article{
+    background-color: rgb(241, 189, 207);
+    border-radius: 10px;
+    max-width: 1300px;
+    margin: auto;
+    height: 200px;
+}
+
